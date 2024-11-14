@@ -33,8 +33,8 @@ This Jupyter notebook contains the code used for model training, evaluation, and
 
 This notebook serves as the main script for reproducing the results in the report and can be used to train and evaluate the models on your own.
 
-### 3. `trained_models.txt`
-This text file contains a list of the trained models, their configurations, and checkpoints. Each model entry includes details such as:
+### 3. `Trained_Models.md`
+This file contains a list of the trained models, link to download them, their configurations, and checkpoints
 
 - Model type (e.g., BERT, GPT)
 - Hyperparameters used during training
