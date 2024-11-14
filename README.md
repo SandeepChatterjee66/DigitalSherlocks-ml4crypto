@@ -162,7 +162,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 This `README.md` provides a way to explain the project and guide users through setting up and running the code.
 
-I invite researchers, developers, and enthusiasts to collaborate with me on this exciting project in cryptology, deep learning, NLP, and reinforcement learning. Having rigorously studied Cryptology, Advanced Cryptology, Deep Learning, and Natural Language Processing, I have developed some understanding of these fields and their applications. I have credited Cryptology in ISI and made a project in Multi Party Computation leading it, I also have worked on homomorphic encryption and its algebraic analysis. If you're interested in exploring innovative solutions and advancing research in these domains, I'd be thrilled to work together and combine our expertise. Let's connect and push the boundaries of what's possible in these rapidly evolving areas.
+I invite researchers, developers, and enthusiasts to collaborate with me on this exciting project in cryptology, deep learning, NLP, and reinforcement learning. Feel free to contact me for developing more and mroe ideas. Having rigorously studied Cryptology, Advanced Cryptology, Deep Learning, and Natural Language Processing, I have developed some understanding of these fields and their applications. I have credited Cryptology in ISI and made a project in Multi Party Computation leading it, I also have worked on homomorphic encryption and its algebraic analysis. If you're interested in exploring innovative solutions and advancing research in these domains, I'd be thrilled to work together and combine our expertise. Let's connect and push the boundaries of what's possible in these rapidly evolving areas.
 
 
 
