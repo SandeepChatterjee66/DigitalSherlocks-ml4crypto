@@ -42,7 +42,7 @@ This text file contains a list of the trained models, their configurations, and 
 
 This file helps you keep track of different trained models and their specific configurations.
 
-### 4. `dataset.csv`
+### 4. `TrainingData.csv`
 This CSV file contains the dataset used for training and evaluating the models. It includes the following columns:
 
 - `text`: The input text (e.g., sentences, paragraphs, or documents) that the models are trained to classify.
@@ -50,13 +50,20 @@ This CSV file contains the dataset used for training and evaluating the models. 
 
 The dataset is used as the training and validation data for both the BERT and GPT models.
 
-### 5. `best_model` (BERT Model)
+### 5. Trained Models
+Downloading the Models
+
+To download the models, follow these steps:
+- [Download GPT Best Model](https://drive.google.com/file/d/1ONYv5-Ga25Rn3JVWeWNQ28XccGKaU-_n/view?usp=drive_link)
+- [Download Final Best Model](https://drive.google.com/file/d/14uWjBUuH_ZeIjqO7kecX7eUUnisuS4li/view?usp=sharing)
+
+### 5.1. `best_model` (BERT Model)
 This file contains the best-performing BERT model checkpoint, which was fine-tuned for the sequence classification task. The model is saved in a format compatible with Hugging Face's Transformers library and can be loaded for inference or further fine-tuning.
 
 - Model architecture: `BertForSequenceClassification`
 - Fine-tuned for a specific downstream task (e.g., text classification)
 
-### 6. `gpt_best_model`
+### 5.2. `gpt_best_model`
 This file contains the best-performing GPT-based model checkpoint, which was fine-tuned on the dataset for a sequence classification task. Like the BERT model, this model is saved in a format compatible with Hugging Face's GPT architecture and can be used for generating predictions or further fine-tuning.
 
 - Model architecture: `GPT2LMHeadModel` (or another variant, depending on the task)
