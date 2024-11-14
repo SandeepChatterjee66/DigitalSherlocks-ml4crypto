@@ -12,7 +12,7 @@ The "Digital Sherlock" project focuses on applying state-of-the-art machine lear
 
 ## Files Overview
 
-### 1. `report.pdf`
+### 1. Report `Report - Indistinguishability Adversary under Ciphertext-Only Attack`
 This file contains the comprehensive report detailing the training process, results, and analysis of the models used in this project. It includes:
 
 - Model architecture and configuration
