@@ -1,6 +1,8 @@
 # DigitalSherlocks-ml4crypto
  In this work, we introduce an approach for classifying binary sequences by using transformer-based architectures with specialized preprocessing. Given a binary input sequence, we split it into halves and perform an XOR operation to differentiating bit patterns. We employ both BERT and GPT-2 models to predict classes from the resulting bitwise-processed sequences, adapting them through efficient parameter fine-tuning. This preprocessing and fine-tuning together reduces computational overhead while maintaining accuracy. Experimental results demonstrate the effectiveness of this approach on a binary classification task, with little advantage. Our findings open avenues for applying transformers in low-dimensional, binary-based classification scenarios, offering efficient, adaptable solutions for real-world applications. In future work, we can analyze if the advantage is increasing function in terms of training data and not advantage is not a neglible function in terms of security parameter (bit size).
 
+ Please View this report for more details : [Report - Indistinguishability Adversary under Ciphertext-Only Attack](https://github.com/SandeepChatterjee66/DigitalSherlocks-ml4crypto/blob/main/Report%20-%20S_Chatterjee___Indistinguishability_Adversary_under_Ciphertext_Only_Attack.pdf)
+
 
 # Digital Sherlock - Model Training and Inference
 
